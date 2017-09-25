@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Tue Sep 19 22:18:04 GMT+08:00 2017
+2.base=D\:\\android-project\\app\\build\\intermediates\\assets\\debug
+5.file=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ASSET
+4.base=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=D\:\\android-project\\app\\build\\intermediates\\assets\\debug\\sdl.bmp
+5.base=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+2.file=D\:\\android-project\\app\\build\\intermediates\\assets\\debug\\test.jpg
+0.base=D\:\\android-project\\app\\build\\intermediates\\assets\\debug
+3.file=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=ASSET

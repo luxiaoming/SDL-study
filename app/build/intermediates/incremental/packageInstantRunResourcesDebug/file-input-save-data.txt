@@ -1,24 +1,27 @@
 #Internal package file, do not edit.
-#Mon Sep 25 20:56:48 GMT+08:00 2017
-2.base=D\:\\android-project\\app\\build\\intermediates\\assets\\debug
-5.file=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
-5.set=ANDROID_RESOURCE
-3.base=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_
-6.file=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
-2.set=ASSET
-4.base=D\:\\android-project\\app\\build\\intermediates\\assets\\debug
-count=7
-0.file=D\:\\android-project\\app\\build\\intermediates\\assets\\debug\\sdl.bmp
-5.base=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_
-4.set=ASSET
+#Tue Sep 26 21:36:45 GMT+08:00 2017
+2.base=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\android-project\\app\\build\\intermediates\\assets\\debug\\font.ttf
+5.set=ASSET
+3.base=D\:\\android-project\\app\\build\\intermediates\\assets\\debug
+6.file=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=8
+0.file=D\:\\android-project\\app\\build\\intermediates\\assets\\debug\\dongwu.mp3
+5.base=D\:\\android-project\\app\\build\\intermediates\\assets\\debug
+4.set=ANDROID_RESOURCE
 6.base=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_
-1.file=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
-1.set=ANDROID_RESOURCE
-2.file=D\:\\android-project\\app\\build\\intermediates\\assets\\debug\\test.jpg
+1.file=D\:\\android-project\\app\\build\\intermediates\\assets\\debug\\sdl.bmp
+1.set=ASSET
+7.base=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
 6.set=ANDROID_RESOURCE
 0.base=D\:\\android-project\\app\\build\\intermediates\\assets\\debug
-3.file=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
-3.set=ANDROID_RESOURCE
-1.base=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_
-4.file=D\:\\android-project\\app\\build\\intermediates\\assets\\debug\\font.ttf
+3.file=D\:\\android-project\\app\\build\\intermediates\\assets\\debug\\test.jpg
+3.set=ASSET
+1.base=D\:\\android-project\\app\\build\\intermediates\\assets\\debug
+4.file=D\:\\android-project\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
 0.set=ASSET

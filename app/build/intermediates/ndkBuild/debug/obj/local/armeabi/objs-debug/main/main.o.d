@@ -47,7 +47,8 @@ D:/android-project/app/build/intermediates/ndkBuild/debug/obj/local/armeabi/objs
   D:/android-project/app/src/main/jni/src/../SDL/include/SDL_version.h \
   D:/android-project/app/src/main/jni/src/../SDL/include\begin_code.h \
   D:/android-project/app/src/main/jni/src/../SDL/include\close_code.h \
-  D:/android-project/app/src/main/jni/src/../SDL2_ttf\SDL_ttf.h
+  D:/android-project/app/src/main/jni/src/../SDL2_ttf\SDL_ttf.h \
+  D:/android-project/app/src/main/jni/src/../SDL2_mixer/SDL_mixer.h
 
 D:/android-project/app/src/main/jni/SDL2_image\SDL_image.h:
 
@@ -144,3 +145,5 @@ D:/android-project/app/src/main/jni/src/../SDL/include\begin_code.h:
 D:/android-project/app/src/main/jni/src/../SDL/include\close_code.h:
 
 D:/android-project/app/src/main/jni/src/../SDL2_ttf\SDL_ttf.h:
+
+D:/android-project/app/src/main/jni/src/../SDL2_mixer/SDL_mixer.h:
